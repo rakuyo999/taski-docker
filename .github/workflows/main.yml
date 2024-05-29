@@ -150,7 +150,6 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          # Personal Username
           tags: rakuyo999/taski_gateway:latest
 
   deploy:
